@@ -6,10 +6,10 @@ A curated collection of expressive WebP stickers for messaging, social media, an
 
 | # | Title | Category | File |
 |---|-------|----------|------|
-| 1 | Angry GF Beating | Reaction | `1.angrygf_Beating-Girl.webp` |
-| 2 | Bro Slap | Funny | `2._broslap-Boy.webp` |
-| 3 | Scary Psycho | Reaction | `3.knifeout-scary-psycho-Girl.webp` |
-| 4 | Pew Pew Gun | Funny | `4.gunout-hehegun-pewpew-Girl.webp` |
+| 1 | Angry GF Beating | Reaction | `1_angrygf_Beating-Girl.webp` |
+| 2 | Bro Slap | Funny | `2_broslap-Boy.webp` |
+| 3 | Scary Psycho | Reaction | `3_knifeout-scary-psycho-Girl.webp` |
+| 4 | Pew Pew Gun | Funny | `4-gunout-hehegun-pewpew-Girl.webp` |
 
 ##  JSON Data
 
@@ -19,7 +19,7 @@ All sticker metadata is stored in `stickers.json` with the following structure:
 {
   "id": "1",
   "title": "Angry GF Beating",
-  "image": "WEBP-Assets/1.angrygf_Beating-Girl.webp",
+  "image": "WEBP-Assets/1_angrygf_Beating-Girl.webp",
   "category": "Reaction",
   "subcategories": ["Reaction", "Couple", "Funny"],
   "keywords": ["angry", "girlfriend", "beating", "fight", "reaction", "cute"]
@@ -44,10 +44,10 @@ StickersLibrary/
 ├── README.md
 ├── stickers.json
 └── WEBP-Assets/
-    ├── 1.angrygf_Beating-Girl.webp
-    ├── 2._broslap-Boy.webp
-    ├── 3.knifeout-scary-psycho-Girl.webp
-    └── 4.gunout-hehegun-pewpew-Girl.webp
+    ├── 1_angrygf_Beating-Girl.webp
+    ├── 2_broslap-Boy.webp
+    ├── 3_knifeout-scary-psycho-Girl.webp
+    └── 4-gunout-hehegun-pewpew-Girl.webp
 ```
 
 ##  Format
