@@ -1,19 +1,17 @@
 # Stickers Library
 
-A curated collection of expressive **WebP** stickers for messaging, social media, and content creation.
+> A curated collection of expressive WebP stickers for messaging, social media, and content creation.
 
 ##  Sticker Preview
 
-| | Preview | Title | Category |
-|---|---------|-------|----------|
-| 1 | ![](WEBP-Assets/1.%F0%9F%8C%B8angrygf_Beating-Girl.webp) | Angry GF Beating | Reaction |
-| 2 | ![](WEBP-Assets/2.%F0%9F%8C%B8_broslap-Boy.webp) | Bro Slap | Funny |
-| 3 | ![](WEBP-Assets/3.%F0%9F%8C%B8knifeout-scary-psycho-Girl.webp) | Scary Psycho | Reaction |
-| 4 | ![](WEBP-Assets/4.gunout-hehegun-pewpew-Girl.webp) | Pew Pew Gun | Funny |
+| # | Preview | Title | Category | Tags |
+|---|--------|-------|----------|------|
+| 1 | ![](https://picsum.photos/seed/angry-couple/300/200) | **Angry GF Beating** | `Reaction` | angry, girlfriend, beating, fight, couple |
+| 2 | ![](https://picsum.photos/seed/bros-highfive/300/200) | **Bro Slap** | `Funny` | bro, slap, funny, friends, meme |
+| 3 | ![](https://picsum.photos/seed/scary-dark/300/200) | **Scary Psycho** | `Reaction` | knife, scary, psycho, crazy, horror |
+| 4 | ![](https://picsum.photos/seed/action-pew/300/200) | **Pew Pew Gun** | `Funny` | gun, pewpew, action, shoot, funny |
 
 ##  JSON Data
-
-All sticker metadata is stored in `stickers.json`:
 
 ```json
 {
